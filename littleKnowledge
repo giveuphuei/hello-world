@@ -1,6 +1,6 @@
 ## edit something when working
 
 #### iOS input 默认顶部有内阴影
-    <pre>input[type="text"] {
+input[type="text"] {
   -webkit-appearance: none;
-}</pre>
+}
