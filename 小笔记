@@ -1,0 +1,4 @@
+#### 1、如何更改input输入框的光标样式；
+  input { caret-color: red; }
+  
+#### 2、bootstrap-datetimepicker插件对于时间格式有限制，若是定义的格式不符合要求，则每次弹出日期框时，时间不会默认当前年份；
